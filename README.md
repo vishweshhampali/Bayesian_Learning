@@ -1,0 +1,1 @@
+The project focuses on evaluating Bayesian modeling methods for a multivariate regression task using the "Energy efficiency" dataset. The primary objective is to derive a predictive model for the heating load of buildings and estimate the relevance of input variables.
